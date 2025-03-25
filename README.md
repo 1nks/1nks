@@ -4,6 +4,8 @@
 
 ![idk](https://64.media.tumblr.com/2730c606547fee824b23dce3aa8a670c/dca6c80d62b3750f-8b/s1280x1920/6ce17b3402adcf12237ca0d499adfefdea4c4643.gif)
 
+![ro](https://i.pinimg.com/736x/a7/62/87/a7628729e154f39b8e9d2c28077e2caf.jpg)
+
 # Visit my website!
 [![portfolio](https://img.shields.io/badge/my%20website%20%3A0-%20%2372d9e8)
 ](https://1nks.github.io)
