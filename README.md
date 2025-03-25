@@ -9,6 +9,12 @@
 
 ## My friend's reaction:
 ![idk](https://i.pinimg.com/736x/12/cc/52/12cc523c2488d28dc602bb1503d905c2.jpg)
+
+## Badges: (3)
+![badge1](https://i.pinimg.com/736x/14/5a/e0/145ae0481f327f47963e6206b5a06de0.jpg)
+![badge2](https://i.https://i.pinimg.com/736x/c1/bb/91/c1bb9111ab9fa75b05be7508765df230.jpg)
+![badge3](https://i.pinimg.com/736x/00/3d/3b/003d3b27647d3149009d7acb4084d059.jpg)
+![badge4](https://i.pinimg.com/736x/c1/bb/91/c1bb9111ab9fa75b05be7508765df230.jpg)
 # Visit my website!
 [![portfolio](https://img.shields.io/badge/my%20website%20%3A0-%20%2372d9e8)
 ](https://1nks.github.io)
