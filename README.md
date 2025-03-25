@@ -1,11 +1,11 @@
 ![ro](https://i.pinimg.com/736x/1b/15/49/1b1549d4484b0455c5e13a3c1d49cf00.jpg)
+![](https://i.imgur.com/88gAJlm.png)
 
 ## Welcome to my humble abode! This is my professional Github profile. Hope you enjoy your time here!
 
 ![idk](https://64.media.tumblr.com/2730c606547fee824b23dce3aa8a670c/dca6c80d62b3750f-8b/s1280x1920/6ce17b3402adcf12237ca0d499adfefdea4c4643.gif)
 
 ## 大好き大好き、リムちゃん。💗💖
-![](https://i.imgur.com/88gAJlm.png)
 ![ro](https://i.pinimg.com/736x/aa/cc/fa/aaccfafcf5b8eb68419bb134830d3a9e.jpg)
 
 ## My friend's reaction:
