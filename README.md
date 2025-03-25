@@ -1,4 +1,4 @@
-![ro](https://i.pinimg.com/736x/1b/15/49/1b1549d4484b0455c5e13a3c1d49cf00.jpg)
+![ro](https://i.pinimg.com/736x/1b/15/49/1b1549d4484b0455c5e13a3c1d49cf00.jpg | width=100)
 
 ## Welcome to my humble abode! This is my professional Github profile. Hope you enjoy your time here!
 
