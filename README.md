@@ -20,3 +20,7 @@
 # Visit my website!
 [![portfolio](https://img.shields.io/badge/my%20website%20%3A0-%20%2372d9e8)
 ](https://1nks.github.io)
+
+# Oh eto calculator
+[![portfolio](https://img.shields.io/badge/calculator_here_%3AD-%23ae77ed)
+](https://1nks.github.io/calculator)
