@@ -12,7 +12,7 @@
 
 ## Badges: (3)
 ![badge1](https://i.pinimg.com/736x/14/5a/e0/145ae0481f327f47963e6206b5a06de0.jpg)
-![badge2](https://i.https://i.pinimg.com/736x/c1/bb/91/c1bb9111ab9fa75b05be7508765df230.jpg)
+![badge2](https://i.pinimg.com/736x/d1/31/0e/d1310ea1d75a544264846fab9ab092aa.jpg)
 ![badge3](https://i.pinimg.com/736x/00/3d/3b/003d3b27647d3149009d7acb4084d059.jpg)
 ![badge4](https://i.pinimg.com/736x/c1/bb/91/c1bb9111ab9fa75b05be7508765df230.jpg)
 # Visit my website!
