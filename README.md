@@ -11,7 +11,7 @@
 ![idk](https://i.pinimg.com/736x/12/cc/52/12cc523c2488d28dc602bb1503d905c2.jpg)
 
 ## Badges: (6)
-![badge1](https://i.pinimg.com/736x/14/5a/e0/145ae0481f327f47963e6206b5a06de0.jpg)
+![badge1](https://i.pinimg.com/736x/0d/09/fe/0d09fe795ff4b65e9415a801fdcdd2a3.jpg)
 ![badge2](https://i.pinimg.com/736x/d1/31/0e/d1310ea1d75a544264846fab9ab092aa.jpg)
 ![badge3](https://i.pinimg.com/736x/00/3d/3b/003d3b27647d3149009d7acb4084d059.jpg)
 ![badge4](https://i.pinimg.com/736x/c1/bb/91/c1bb9111ab9fa75b05be7508765df230.jpg)
