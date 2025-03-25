@@ -1,5 +1,6 @@
-![ro](https://i.pinimg.com/736x/1b/15/49/1b1549d4484b0455c5e13a3c1d49cf00.jpg)
+
 ![](https://i.imgur.com/88gAJlm.png)
+![ro](https://i.pinimg.com/736x/1b/15/49/1b1549d4484b0455c5e13a3c1d49cf00.jpg)
 
 ## Welcome to my humble abode! This is my professional Github profile. Hope you enjoy your time here!
 
