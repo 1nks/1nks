@@ -10,13 +10,15 @@
 ## My friend's reaction:
 ![idk](https://i.pinimg.com/736x/12/cc/52/12cc523c2488d28dc602bb1503d905c2.jpg)
 
-## Badges: (6)
+## Badges: (8)
 ![badge1](https://i.pinimg.com/736x/0d/09/fe/0d09fe795ff4b65e9415a801fdcdd2a3.jpg)
 ![badge2](https://i.pinimg.com/736x/d1/31/0e/d1310ea1d75a544264846fab9ab092aa.jpg)
 ![badge3](https://i.pinimg.com/736x/00/3d/3b/003d3b27647d3149009d7acb4084d059.jpg)
 ![badge4](https://i.pinimg.com/736x/c1/bb/91/c1bb9111ab9fa75b05be7508765df230.jpg)
 ![badge5](https://i.pinimg.com/736x/ab/ba/6a/abba6af28cf65db5488e56b0afd56dbc.jpg)
 ![badge6](https://i.pinimg.com/736x/21/60/c5/2160c5e24be436bb7ae53f4c4325377a.jpg)
+![badge7](https://i.imgur.com/S8B6U7x.png)
+![badge8](https://i.imgur.com/203bT5k.png)
 # Visit my website!
 [![portfolio](https://img.shields.io/badge/my%20website%20%3A0-%20%2372d9e8)
 ](https://1nks.github.io)
